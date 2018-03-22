@@ -1,0 +1,29 @@
+{
+  "name": "solidity-keccak256",
+  "version": "1.0.0",
+  "description": "Augmented Solidity compatible Keccak256",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests/node-test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mxmauro/solidity-keccak256.git"
+  },
+  "author": "CoinFabrik",
+  "license": "MIT",
+  "dependencies": {
+    "bn.js": "^4.11.8",
+    "js-sha3": "^0.7.0",
+    "utf8": "^3.0.0"
+  },
+  "keywords": [
+    "sha3",
+    "keccak",
+    "cryptography",
+    "solidity"
+  ],
+  "bugs": {
+    "url": "https://github.com/mxmauro/solidity-keccak256/issues"
+  }
+}
